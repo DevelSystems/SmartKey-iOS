@@ -6545,66 +6545,6 @@
           },
           {
             "kind": "Var",
-            "name": "appVersion",
-            "printedName": "appVersion",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:8SmartKey20UserInstallationDataV10appVersionSSSgvp",
-            "mangledName": "$s8SmartKey20UserInstallationDataV10appVersionSSSgvp",
-            "moduleName": "SmartKey",
-            "declAttributes": [
-              "HasStorage",
-              "AccessControl"
-            ],
-            "isLet": true,
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Swift.String?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:8SmartKey20UserInstallationDataV10appVersionSSSgvg",
-                "mangledName": "$s8SmartKey20UserInstallationDataV10appVersionSSSgvg",
-                "moduleName": "SmartKey",
-                "implicit": true,
-                "accessorKind": "get"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
             "name": "publicKey",
             "printedName": "publicKey",
             "children": [
@@ -6657,6 +6597,66 @@
                 "declKind": "Accessor",
                 "usr": "s:8SmartKey20UserInstallationDataV06publicB0SSSgvg",
                 "mangledName": "$s8SmartKey20UserInstallationDataV06publicB0SSSgvg",
+                "moduleName": "SmartKey",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "privateKey",
+            "printedName": "privateKey",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:8SmartKey20UserInstallationDataV07privateB0SSSgvp",
+            "mangledName": "$s8SmartKey20UserInstallationDataV07privateB0SSSgvp",
+            "moduleName": "SmartKey",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:8SmartKey20UserInstallationDataV07privateB0SSSgvg",
+                "mangledName": "$s8SmartKey20UserInstallationDataV07privateB0SSSgvg",
                 "moduleName": "SmartKey",
                 "implicit": true,
                 "accessorKind": "get"
@@ -6965,8 +6965,8 @@
           },
           {
             "kind": "Var",
-            "name": "loginMethod",
-            "printedName": "loginMethod",
+            "name": "sessionId",
+            "printedName": "sessionId",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -6984,8 +6984,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:8SmartKey20UserInstallationDataV11loginMethodSSSgvp",
-            "mangledName": "$s8SmartKey20UserInstallationDataV11loginMethodSSSgvp",
+            "usr": "s:8SmartKey20UserInstallationDataV9sessionIdSSSgvp",
+            "mangledName": "$s8SmartKey20UserInstallationDataV9sessionIdSSSgvp",
             "moduleName": "SmartKey",
             "declAttributes": [
               "HasStorage",
@@ -7015,8 +7015,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:8SmartKey20UserInstallationDataV11loginMethodSSSgvg",
-                "mangledName": "$s8SmartKey20UserInstallationDataV11loginMethodSSSgvg",
+                "usr": "s:8SmartKey20UserInstallationDataV9sessionIdSSSgvg",
+                "mangledName": "$s8SmartKey20UserInstallationDataV9sessionIdSSSgvg",
                 "moduleName": "SmartKey",
                 "implicit": true,
                 "accessorKind": "get"
@@ -7070,7 +7070,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(username:appVersion:publicKey:serviceUrl:smartIdLicense:smartIdChannel:isProd:userId:userKey:loginMethod:)",
+            "printedName": "init(username:publicKey:privateKey:serviceUrl:smartIdLicense:smartIdChannel:isProd:userId:userKey:sessionId:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -7134,23 +7134,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:8SmartKey20UserInstallationDataV8username10appVersion06publicB010serviceUrl14smartIdLicense0lM7Channel6isProd04userM00rB011loginMethodACSS_S5SSbS3SSgtcfc",
-            "mangledName": "$s8SmartKey20UserInstallationDataV8username10appVersion06publicB010serviceUrl14smartIdLicense0lM7Channel6isProd04userM00rB011loginMethodACSS_S5SSbS3SSgtcfc",
+            "usr": "s:8SmartKey20UserInstallationDataV8username06publicB007privateB010serviceUrl14smartIdLicense0kL7Channel6isProd04userL00qB007sessionL0ACSS_S5SSbS3Stcfc",
+            "mangledName": "$s8SmartKey20UserInstallationDataV8username06publicB007privateB010serviceUrl14smartIdLicense0kL7Channel6isProd04userL00qB007sessionL0ACSS_S5SSbS3Stcfc",
             "moduleName": "SmartKey",
             "declAttributes": [
               "AccessControl"
@@ -11694,63 +11685,63 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey\/SmartKeyDS\/SDK\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 644,
+      "offset": 642,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey\/SmartKeyDS\/SDK\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 1065,
+      "offset": 1063,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey\/SmartKeyDS\/SDK\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 1107,
+      "offset": 1105,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey\/SmartKeyDS\/SDK\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 1289,
+      "offset": 1287,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey\/SmartKeyDS\/SDK\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 1331,
+      "offset": 1329,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey\/SmartKeyDS\/SDK\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2157,
+      "offset": 2155,
       "length": 38,
       "value": "\"com.develsystems.SmartKey.SmartKeyBH\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey\/SmartKeyDS\/SDK\/SDK.swift",
       "kind": "StringLiteral",
-      "offset": 2318,
+      "offset": 2316,
       "length": 16,
       "value": "\"AppleKeyboards\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey\/SmartKeyDS\/SDK\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 2447,
+      "offset": 2445,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey\/SmartKeyDS\/SDK\/SDK.swift",
       "kind": "BooleanLiteral",
-      "offset": 2492,
+      "offset": 2490,
       "length": 5,
       "value": "false"
     },

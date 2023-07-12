@@ -136,9 +136,9 @@ extension UIKit.UIView {
   @objc deinit
 }
 public struct UserInstallationData : Swift.Codable {
-  public let username: Swift.String?, appVersion: Swift.String?, publicKey: Swift.String?, serviceUrl: Swift.String?, smartIdLicense: Swift.String?, smartIdChannel: Swift.String?, userId: Swift.String?, userKey: Swift.String?, loginMethod: Swift.String?
+  public let username: Swift.String?, publicKey: Swift.String?, privateKey: Swift.String?, serviceUrl: Swift.String?, smartIdLicense: Swift.String?, smartIdChannel: Swift.String?, userId: Swift.String?, userKey: Swift.String?, sessionId: Swift.String?
   public let isProd: Swift.Bool
-  public init(username: Swift.String, appVersion: Swift.String, publicKey: Swift.String, serviceUrl: Swift.String, smartIdLicense: Swift.String, smartIdChannel: Swift.String, isProd: Swift.Bool, userId: Swift.String, userKey: Swift.String, loginMethod: Swift.String? = nil)
+  public init(username: Swift.String, publicKey: Swift.String, privateKey: Swift.String, serviceUrl: Swift.String, smartIdLicense: Swift.String, smartIdChannel: Swift.String, isProd: Swift.Bool, userId: Swift.String, userKey: Swift.String, sessionId: Swift.String)
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
