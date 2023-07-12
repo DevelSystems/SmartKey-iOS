@@ -1,0 +1,161 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SmartKey
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import LocalAuthentication
+import Security
+import SmartId
+@_exported import SmartKey
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+public struct CallResponseModel : Swift.Codable {
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct DataModel : Swift.Codable {
+  public var data: [Swift.String]
+  public init(data: [Swift.String])
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct BHModel : Swift.Codable {
+  public var deviceID: Swift.String
+  public var userID: Swift.String
+  public var userKey: Swift.String
+  public var action: Swift.Int
+  public var channel: Swift.Int
+  public var date: Swift.String
+  public var message: Swift.String?
+  public var sessionID: Swift.String
+  public var optionFrom: Swift.String?
+  public var optionTo: Swift.String?
+  public var amount: Swift.Double?
+  public var notificationEmail: Swift.String?
+  public init(deviceID: Swift.String, userID: Swift.String, userKey: Swift.String, action: Swift.Int, channel: Swift.Int, date: Swift.String, sessionID: Swift.String)
+  public init(deviceID: Swift.String, userID: Swift.String, userKey: Swift.String, action: Swift.Int, channel: Swift.Int, date: Swift.String, message: Swift.String, sessionID: Swift.String, optionFrom: Swift.String, optionTo: Swift.String, amount: Swift.Double, notificationEmail: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+@_hasMissingDesignatedInitializers final public class SmartKeyProvider {
+  public static let shared: SmartKey.SmartKeyProvider
+  public enum Environment {
+    case DEVELOPMENT, QA, PRODUCTION
+    public static func == (a: SmartKey.SmartKeyProvider.Environment, b: SmartKey.SmartKeyProvider.Environment) -> Swift.Bool
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+  }
+  final public func callData(data: SmartKey.BHModel, callDataResponse: @escaping (SmartKey.CallResponseModel) -> Swift.Void)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MessageUNICell : UIKit.UITableViewCell {
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var titleLabel: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var messageLabel: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var continueButton: UIKit.UIButton!
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class AccountCell : UIKit.UITableViewCell {
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var accountNumber: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var accountBalance: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var accountName: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var accountType: UIKit.UILabel!
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class OperationSuccessfulCell : UIKit.UITableViewCell {
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class PayTypeCell : UIKit.UITableViewCell {
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var descriptionLabel: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var amountLabel: UIKit.UILabel!
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class AccountDestinyCell : UIKit.UITableViewCell {
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var accountNumber: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var accountName: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var bankName: UIKit.UILabel!
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MessageCell : UIKit.UITableViewCell {
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var titleLabel: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var messageLabel: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var continueButton: UIKit.UIButton!
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class ConfirmationCell : UIKit.UITableViewCell {
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class CreditCardCell : UIKit.UITableViewCell {
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var creditCardNumber: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var accountName: UIKit.UILabel!
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var creditCardType: UIKit.UILabel!
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class BankCell : UIKit.UITableViewCell {
+  @objc @IBOutlet @_Concurrency.MainActor(unsafe) weak public var bankName: UIKit.UILabel!
+  @available(iOS 3.0, *)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(style: UIKit.UITableViewCell.CellStyle, reuseIdentifier: Swift.String?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension UIKit.UIView {
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) dynamic public var cornerRadius: CoreFoundation.CGFloat {
+    @objc get
+    @objc set
+  }
+}
+@objc @_inheritsConvenienceInitializers open class RSAUtils : ObjectiveC.NSObject {
+  @objc override dynamic public init()
+  @objc deinit
+}
+public struct UserInstallationData : Swift.Codable {
+  public let username: Swift.String?, appVersion: Swift.String?, publicKey: Swift.String?, serviceUrl: Swift.String?, smartIdLicense: Swift.String?, smartIdChannel: Swift.String?, userId: Swift.String?, userKey: Swift.String?, loginMethod: Swift.String?
+  public let isProd: Swift.Bool
+  public init(username: Swift.String, appVersion: Swift.String, publicKey: Swift.String, serviceUrl: Swift.String, smartIdLicense: Swift.String, smartIdChannel: Swift.String, isProd: Swift.Bool, userId: Swift.String, userKey: Swift.String, loginMethod: Swift.String? = nil)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+@_hasMissingDesignatedInitializers public class SDK {
+  public class func setSession(userInstallationData: SmartKey.UserInstallationData) -> Swift.Bool
+  public class func deleteSession() -> Swift.Bool
+  public class func getKeyboardStatus() -> SmartKey.KeyboardStatus
+  @objc deinit
+}
+public struct KeyboardStatus {
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class SmartKeyViewController : UIKit.UIInputViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension SmartKey.SmartKeyProvider.Environment : Swift.Equatable {}
+extension SmartKey.SmartKeyProvider.Environment : Swift.Hashable {}
