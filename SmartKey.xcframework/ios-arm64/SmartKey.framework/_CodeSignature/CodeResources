@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/SmartKey.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		VIwbyN9vppLTXbkkjdQBtSD3s+E=
+		EPI6JxHsPEQIPsB+dbPcj1sq+Oo=
 		</data>
 		<key>Modules/SmartKey.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>Modules/SmartKey.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		jDW0C9LeX6br2+zI79am7UpCXgU=
+		nNqfY15Cs/iqIe2ZdB2yIJCoP6I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -280,7 +280,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FqU5HPO5h4KgakTNmI/lQ1gWDyj+Zu5R1aBSl81eIyQ=
+			haC9iF0W6LTv301VaxDvLLbRuDlrjyEJscoaqy+hsSE=
 			</data>
 		</dict>
 		<key>Modules/SmartKey.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -308,7 +308,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VhM6zeERyiAz4cG4yw/KpgWQ7ssPQ2acsv5yUTlY1s0=
+			SG7xtKooePIqVb8r6dbMXvjWJZHZ+DzUBw/Am/AUoL8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
