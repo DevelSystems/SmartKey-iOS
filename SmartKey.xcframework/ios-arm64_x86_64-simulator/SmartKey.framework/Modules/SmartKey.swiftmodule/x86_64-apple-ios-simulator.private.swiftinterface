@@ -41,15 +41,7 @@ public struct BHModel : Swift.Codable {
 }
 @_hasMissingDesignatedInitializers final public class SmartKeyProvider {
   public static let shared: SmartKey.SmartKeyProvider
-  public enum Environment {
-    case DEVELOPMENT, QA, PRODUCTION
-    public static func == (a: SmartKey.SmartKeyProvider.Environment, b: SmartKey.SmartKeyProvider.Environment) -> Swift.Bool
-    public func hash(into hasher: inout Swift.Hasher)
-    public var hashValue: Swift.Int {
-      get
-    }
-  }
-  final public func callData(data: SmartKey.BHModel, callDataResponse: @escaping (SmartKey.CallResponseModel) -> Swift.Void)
+  final public func callData(data: SmartKey.BHModel, publicKey: Swift.String, privateKey: Swift.String, serviceUrl: Swift.String, serviceToken: Swift.String, callDataResponse: @escaping (SmartKey.CallResponseModel) -> Swift.Void)
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class MessageUNICell : UIKit.UITableViewCell {
@@ -136,9 +128,9 @@ extension UIKit.UIView {
   @objc deinit
 }
 public struct UserInstallationData : Swift.Codable {
-  public let username: Swift.String?, appVersion: Swift.String?, publicKey: Swift.String?, serviceUrl: Swift.String?, smartIdLicense: Swift.String?, smartIdChannel: Swift.String?, userId: Swift.String?, userKey: Swift.String?, loginMethod: Swift.String?
+  public let username: Swift.String?, publicKey: Swift.String?, privateKey: Swift.String?, serviceUrl: Swift.String?, serviceToken: Swift.String?, smartIdLicense: Swift.String?, smartIdChannel: Swift.String?, userId: Swift.String?, userKey: Swift.String?, sessionId: Swift.String?
   public let isProd: Swift.Bool
-  public init(username: Swift.String, appVersion: Swift.String, publicKey: Swift.String, serviceUrl: Swift.String, smartIdLicense: Swift.String, smartIdChannel: Swift.String, isProd: Swift.Bool, userId: Swift.String, userKey: Swift.String, loginMethod: Swift.String? = nil)
+  public init(username: Swift.String, publicKey: Swift.String, privateKey: Swift.String, serviceUrl: Swift.String, serviceToken: Swift.String, smartIdLicense: Swift.String, smartIdChannel: Swift.String, isProd: Swift.Bool, userId: Swift.String, userKey: Swift.String, sessionId: Swift.String)
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -157,5 +149,3 @@ public struct KeyboardStatus {
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-extension SmartKey.SmartKeyProvider.Environment : Swift.Equatable {}
-extension SmartKey.SmartKeyProvider.Environment : Swift.Hashable {}
