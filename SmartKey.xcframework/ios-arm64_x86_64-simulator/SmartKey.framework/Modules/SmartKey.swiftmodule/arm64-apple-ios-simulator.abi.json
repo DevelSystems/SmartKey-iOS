@@ -10690,232 +10690,225 @@
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2727,
-      "length": 2,
-      "value": "60"
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 2812,
-      "length": 7,
-      "value": "\"Pagar\""
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 3441,
+      "offset": 3335,
       "length": 6,
       "value": "\"US$ \""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 3465,
+      "offset": 3359,
       "length": 6,
       "value": "\"%.2f\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 3869,
+      "offset": 3398,
+      "length": 12,
+      "value": "\"Transferir\""
+    },
+    {
+      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 3798,
       "length": 6,
       "value": "\"US$ \""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 3893,
+      "offset": 3822,
       "length": 6,
       "value": "\"%.2f\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 3924,
+      "offset": 3853,
       "length": 15,
       "value": "\"Cuenta origen\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 3955,
+      "offset": 3884,
       "length": 16,
       "value": "\"Cuenta destino\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 3990,
+      "offset": 3919,
       "length": 7,
       "value": "\"Monto\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4033,
+      "offset": 3962,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 4069,
+      "offset": 3998,
       "length": 23,
       "value": "\"Confirmación de pago\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 4144,
+      "offset": 4073,
       "length": 18,
       "value": "\"Cuenta a debitar\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 4202,
+      "offset": 4131,
       "length": 17,
       "value": "\"Tarjeta destino\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 4258,
+      "offset": 4187,
       "length": 15,
       "value": "\"Monto a pagar\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 4300,
+      "offset": 4229,
       "length": 7,
       "value": "\"Pagar\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 4533,
+      "offset": 4462,
       "length": 18,
       "value": "\"ConfirmationCell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 4603,
+      "offset": 4532,
       "length": 18,
       "value": "\"confirmationcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5135,
+      "offset": 5064,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 5576,
+      "offset": 5505,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5660,
+      "offset": 5589,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5672,
+      "offset": 5601,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 5702,
+      "offset": 5631,
       "length": 10,
       "value": "\"SmartKey\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 5862,
+      "offset": 5791,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6147,
+      "offset": 6076,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 6564,
+      "offset": 6493,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6731,
+      "offset": 6660,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 7038,
+      "offset": 6967,
       "length": 28,
       "value": "\"Error, intente más tarde.\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7086,
+      "offset": 7015,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7213,
+      "offset": 7142,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7364,
+      "offset": 7293,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7407,
+      "offset": 7336,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7471,
+      "offset": 7400,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7513,
+      "offset": 7442,
       "length": 5,
       "value": "false"
     },
@@ -11211,7 +11204,7 @@
       "kind": "StringLiteral",
       "offset": 300,
       "length": 41,
-      "value": "\"25N4CF38HK.com.bancohipotecario.app.ios\""
+      "value": "\"N2LY682BU5.com.bancohipotecario.app.ios\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Helpers\/KeychainService.swift",
