@@ -261,6 +261,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
 @import CoreFoundation;
+@import Messages;
 @import ObjectiveC;
 @import UIKit;
 #endif
@@ -379,7 +380,7 @@ SWIFT_CLASS("_TtC8SmartKey8RSAUtils")
 @class NSBundle;
 
 SWIFT_CLASS("_TtC8SmartKey22SmartKeyViewController")
-@interface SmartKeyViewController : UIInputViewController
+@interface SmartKeyViewController : MSMessagesAppViewController
 - (void)viewDidLoad;
 - (void)viewDidAppear:(BOOL)animated;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
@@ -666,6 +667,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
 @import CoreFoundation;
+@import Messages;
 @import ObjectiveC;
 @import UIKit;
 #endif
@@ -784,7 +786,7 @@ SWIFT_CLASS("_TtC8SmartKey8RSAUtils")
 @class NSBundle;
 
 SWIFT_CLASS("_TtC8SmartKey22SmartKeyViewController")
-@interface SmartKeyViewController : UIInputViewController
+@interface SmartKeyViewController : MSMessagesAppViewController
 - (void)viewDidLoad;
 - (void)viewDidAppear:(BOOL)animated;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
