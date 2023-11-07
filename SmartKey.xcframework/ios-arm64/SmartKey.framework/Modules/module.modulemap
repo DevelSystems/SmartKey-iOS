@@ -1,7 +1,7 @@
 framework module SmartKey {
   umbrella header "SmartKey.h"
-
   export *
+
   module * { export * }
 }
 
