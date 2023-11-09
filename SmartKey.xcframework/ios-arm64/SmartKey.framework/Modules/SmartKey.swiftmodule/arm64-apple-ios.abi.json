@@ -8238,28 +8238,28 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageUNIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2945,
+      "offset": 2944,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageUNIView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3180,
+      "offset": 3179,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageUNIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3297,
+      "offset": 3295,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageUNIView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3410,
+      "offset": 3408,
       "length": 5,
       "value": "false"
     },
@@ -8280,21 +8280,21 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/TransferBHView.swift",
       "kind": "BooleanLiteral",
-      "offset": 832,
+      "offset": 831,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/TransferBHView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1068,
+      "offset": 1067,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/TransferBHView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1185,
+      "offset": 1183,
       "length": 5,
       "value": "false"
     },
@@ -8336,287 +8336,287 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1504,
+      "offset": 1503,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 1581,
+      "offset": 1580,
       "length": 17,
       "value": "\"Pago de contado\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 1705,
+      "offset": 1704,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 1716,
+      "offset": 1715,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1845,
+      "offset": 1844,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 1989,
+      "offset": 1988,
       "length": 32,
       "value": "\"El monto debe ser superior a 0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2041,
+      "offset": 2040,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2160,
+      "offset": 2158,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 2395,
+      "offset": 2393,
       "length": 72,
       "value": "\"El monto debe ser superior al balance de la cuenta origen seleccionada\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2487,
+      "offset": 2485,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2606,
+      "offset": 2603,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2916,
+      "offset": 2913,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3047,
+      "offset": 3043,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 3147,
+      "offset": 3143,
       "length": 14,
       "value": "\"Pago mínimo\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 3266,
+      "offset": 3262,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 3277,
+      "offset": 3273,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3406,
+      "offset": 3402,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 3550,
+      "offset": 3546,
       "length": 32,
       "value": "\"El monto debe ser superior a 0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3602,
+      "offset": 3598,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3721,
+      "offset": 3716,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 3956,
+      "offset": 3951,
       "length": 72,
       "value": "\"El monto debe ser superior al balance de la cuenta origen seleccionada\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4048,
+      "offset": 4043,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4167,
+      "offset": 4161,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4477,
+      "offset": 4471,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4608,
+      "offset": 4601,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 4834,
+      "offset": 4827,
       "length": 13,
       "value": "\"paytypecell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 5076,
+      "offset": 5069,
       "length": 6,
       "value": "\"US$ \""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 5143,
+      "offset": 5136,
       "length": 7,
       "value": "\"Abono\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 5637,
+      "offset": 5630,
       "length": 17,
       "value": "\"Pago de contado\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 5755,
+      "offset": 5748,
       "length": 14,
       "value": "\"Pago mínimo\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 5868,
+      "offset": 5861,
       "length": 7,
       "value": "\"Abono\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 5890,
+      "offset": 5883,
       "length": 12,
       "value": "\"Otro monto\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 6150,
+      "offset": 6143,
       "length": 13,
       "value": "\"PayTypeCell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "StringLiteral",
-      "offset": 6215,
+      "offset": 6208,
       "length": 13,
       "value": "\"paytypecell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6684,
+      "offset": 6677,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6749,
+      "offset": 6742,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/PayTypeView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6843,
+      "offset": 6836,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 837,
+      "offset": 836,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1141,
+      "offset": 1139,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1465,
+      "offset": 1462,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1776,
+      "offset": 1772,
       "length": 5,
       "value": "false"
     },
@@ -8714,91 +8714,91 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4813,
+      "offset": 4812,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5410,
+      "offset": 5409,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "FloatLiteral",
-      "offset": 5417,
+      "offset": 5416,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5532,
+      "offset": 5531,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6322,
+      "offset": 6321,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6333,
+      "offset": 6332,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "Array",
-      "offset": 6437,
+      "offset": 6436,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6953,
+      "offset": 6951,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7173,
+      "offset": 7171,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7346,
+      "offset": 7344,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7352,
+      "offset": 7350,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7362,
+      "offset": 7360,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationSuccessfulView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7373,
+      "offset": 7371,
       "length": 1,
       "value": "1"
     },
@@ -8833,301 +8833,301 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1504,
+      "offset": 1503,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1921,
+      "offset": 1919,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 2132,
+      "offset": 2130,
       "length": 13,
       "value": "\"accountcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 2483,
+      "offset": 2481,
       "length": 6,
       "value": "\"US$ \""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2933,
+      "offset": 2931,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 3200,
+      "offset": 3198,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3284,
+      "offset": 3282,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3297,
+      "offset": 3295,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3614,
+      "offset": 3612,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 3931,
+      "offset": 3929,
       "length": 28,
       "value": "\"No hay cuentas disponibles\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3990,
+      "offset": 3988,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4133,
+      "offset": 4130,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4243,
+      "offset": 4240,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4778,
+      "offset": 4775,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 4786,
+      "offset": 4783,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 4830,
+      "offset": 4827,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5016,
+      "offset": 5013,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 5507,
+      "offset": 5504,
       "length": 6,
       "value": "\"$USD\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 5563,
+      "offset": 5560,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 5615,
+      "offset": 5612,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 5669,
+      "offset": 5666,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 5746,
+      "offset": 5743,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 5950,
+      "offset": 5947,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 6253,
+      "offset": 6250,
       "length": 13,
       "value": "\"AccountCell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 6318,
+      "offset": 6315,
       "length": 13,
       "value": "\"accountcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 6907,
+      "offset": 6904,
       "length": 28,
       "value": "\"Error, intente más tarde.\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6966,
+      "offset": 6963,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7101,
+      "offset": 7097,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 7415,
+      "offset": 7411,
       "length": 13,
       "value": "\"AccountCell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 7480,
+      "offset": 7476,
       "length": 13,
       "value": "\"accountcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "Array",
-      "offset": 7779,
+      "offset": 7775,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 7866,
+      "offset": 7862,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 7885,
+      "offset": 7881,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 7902,
+      "offset": 7898,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 7919,
+      "offset": 7915,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 7940,
+      "offset": 7936,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 7960,
+      "offset": 7956,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 7980,
+      "offset": 7976,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 8002,
+      "offset": 7998,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 8016,
+      "offset": 8012,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8257,
+      "offset": 8253,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8322,
+      "offset": 8318,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OriginAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8416,
+      "offset": 8412,
       "length": 5,
       "value": "false"
     },
@@ -9141,14 +9141,14 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageTCView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1020,
+      "offset": 1019,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageTCView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1133,
+      "offset": 1132,
       "length": 5,
       "value": "false"
     },
@@ -9169,105 +9169,105 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1177,
+      "offset": 1176,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 1378,
+      "offset": 1377,
       "length": 20,
       "value": "\"accountdestinycell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 1602,
+      "offset": 1601,
       "length": 5,
       "value": "\" \/ \""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 1665,
+      "offset": 1664,
       "length": 8,
       "value": "\"US$ - \""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1729,
+      "offset": 1728,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1754,
+      "offset": 1753,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 2373,
+      "offset": 2372,
       "length": 20,
       "value": "\"AccountDestinyCell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 2445,
+      "offset": 2444,
       "length": 20,
       "value": "\"accountdestinycell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2501,
+      "offset": 2500,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2545,
+      "offset": 2544,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2581,
+      "offset": 2580,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "StringLiteral",
-      "offset": 3036,
+      "offset": 3035,
       "length": 28,
       "value": "\"No hay cuentas disponibles\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3095,
+      "offset": 3094,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3222,
+      "offset": 3220,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/DestinationAccountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3817,
+      "offset": 3815,
       "length": 5,
       "value": "false"
     },
@@ -9330,21 +9330,21 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1535,
+      "offset": 1534,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1615,
+      "offset": 1614,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1657,
+      "offset": 1656,
       "length": 5,
       "value": "false"
     },
@@ -9379,154 +9379,154 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1450,
+      "offset": 1449,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 1651,
+      "offset": 1650,
       "length": 16,
       "value": "\"creditcardcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 2607,
+      "offset": 2606,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2691,
+      "offset": 2690,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2704,
+      "offset": 2703,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3009,
+      "offset": 3008,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 3304,
+      "offset": 3303,
       "length": 29,
       "value": "\"No hay tarjetas disponibles\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3364,
+      "offset": 3363,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3499,
+      "offset": 3497,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3597,
+      "offset": 3595,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4254,
+      "offset": 4252,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 4717,
+      "offset": 4715,
       "length": 6,
       "value": "\"$USD\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 5007,
+      "offset": 5005,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 5195,
+      "offset": 5193,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 5457,
+      "offset": 5455,
       "length": 16,
       "value": "\"CreditCardCell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 5525,
+      "offset": 5523,
       "length": 16,
       "value": "\"creditcardcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 6070,
+      "offset": 6068,
       "length": 28,
       "value": "\"Error, intente más tarde.\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6129,
+      "offset": 6127,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6256,
+      "offset": 6253,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6550,
+      "offset": 6547,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6615,
+      "offset": 6612,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6709,
+      "offset": 6706,
       "length": 5,
       "value": "false"
     },
@@ -9540,70 +9540,70 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1204,
+      "offset": 1203,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "StringLiteral",
-      "offset": 1405,
+      "offset": 1404,
       "length": 10,
       "value": "\"bankcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "StringLiteral",
-      "offset": 2032,
+      "offset": 2031,
       "length": 10,
       "value": "\"BankCell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "StringLiteral",
-      "offset": 2094,
+      "offset": 2093,
       "length": 10,
       "value": "\"bankcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "StringLiteral",
-      "offset": 2158,
+      "offset": 2157,
       "length": 20,
       "value": "\"Banco Agricola S.A\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "StringLiteral",
-      "offset": 2223,
+      "offset": 2222,
       "length": 17,
       "value": "\"Banco Cuscatlan\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "StringLiteral",
-      "offset": 2287,
+      "offset": 2286,
       "length": 19,
       "value": "\"Banco Desvivienda\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "StringLiteral",
-      "offset": 2352,
+      "offset": 2351,
       "length": 21,
       "value": "\"Banco Promerica S.A\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "StringLiteral",
-      "offset": 2419,
+      "offset": 2418,
       "length": 26,
       "value": "\"Banco de America Central\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/SelectBankView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2977,
+      "offset": 2976,
       "length": 5,
       "value": "false"
     },
@@ -10492,266 +10492,266 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7946,
+      "offset": 7945,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 8018,
+      "offset": 8017,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 8161,
+      "offset": 8160,
       "length": 32,
       "value": "\"El monto debe ser superior a 0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8213,
+      "offset": 8212,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8332,
+      "offset": 8330,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 8558,
+      "offset": 8556,
       "length": 69,
       "value": "\"El monto debe ser menor al balance de la cuenta origen seleccionada\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8647,
+      "offset": 8645,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 8766,
+      "offset": 8763,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9208,
+      "offset": 9204,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 9392,
+      "offset": 9388,
       "length": 32,
       "value": "\"El monto debe ser superior a 0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9444,
+      "offset": 9440,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "BooleanLiteral",
-      "offset": 9555,
+      "offset": 9550,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 9675,
+      "offset": 9670,
       "length": 6,
       "value": "\"0.00\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 9713,
+      "offset": 9708,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 9925,
+      "offset": 9920,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 9962,
+      "offset": 9957,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 10001,
+      "offset": 9996,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10084,
+      "offset": 10079,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10136,
+      "offset": 10131,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 10185,
+      "offset": 10180,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 10284,
+      "offset": 10279,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10328,
+      "offset": 10323,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
+      "offset": 10367,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
+      "kind": "StringLiteral",
       "offset": 10372,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
-      "kind": "StringLiteral",
-      "offset": 10377,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10394,
+      "offset": 10389,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10438,
+      "offset": 10433,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10449,
+      "offset": 10444,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10493,
+      "offset": 10488,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
+      "offset": 10498,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
+      "kind": "StringLiteral",
       "offset": 10503,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
-      "kind": "StringLiteral",
-      "offset": 10508,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10525,
+      "offset": 10520,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10645,
+      "offset": 10640,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10661,
+      "offset": 10656,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10672,
+      "offset": 10667,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10716,
+      "offset": 10711,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "StringLiteral",
-      "offset": 10721,
+      "offset": 10716,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10738,
+      "offset": 10733,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/AmmountView.swift",
       "kind": "IntegerLiteral",
-      "offset": 10748,
+      "offset": 10743,
       "length": 1,
       "value": "2"
     },
@@ -11003,56 +11003,56 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6660,
+      "offset": 6659,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 6967,
+      "offset": 6966,
       "length": 28,
       "value": "\"Error, intente más tarde.\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7015,
+      "offset": 7014,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7142,
+      "offset": 7140,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7293,
+      "offset": 7291,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7336,
+      "offset": 7334,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7400,
+      "offset": 7398,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7442,
+      "offset": 7440,
       "length": 5,
       "value": "false"
     },
@@ -11101,28 +11101,28 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2470,
+      "offset": 2469,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2705,
+      "offset": 2704,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2822,
+      "offset": 2820,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/MessageView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2935,
+      "offset": 2933,
       "length": 5,
       "value": "false"
     },
@@ -12200,28 +12200,28 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9890,
+      "offset": 9889,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9923,
+      "offset": 9922,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9982,
+      "offset": 9981,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10408,
+      "offset": 10407,
       "length": 40,
       "value": "\"Error al obtener los datos del teclado\""
     },
