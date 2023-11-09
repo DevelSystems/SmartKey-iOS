@@ -8595,56 +8595,28 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 616,
+      "offset": 771,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 827,
+      "offset": 1018,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 959,
+      "offset": 1281,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1140,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1274,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1470,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1600,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1789,
+      "offset": 1533,
       "length": 5,
       "value": "false"
     },
@@ -12186,77 +12158,70 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8130,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8412,
+      "offset": 8617,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8536,
+      "offset": 8715,
       "length": 51,
       "value": "\"Error in saving auth success for success bio auth\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9110,
+      "offset": 9289,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9162,
+      "offset": 9341,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9225,
+      "offset": 9404,
       "length": 73,
       "value": "\"El método de autenticación ha sido deshabilitado desde el dispositivo\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9352,
+      "offset": 9531,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9695,
+      "offset": 9866,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9728,
+      "offset": 9899,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9787,
+      "offset": 9958,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10213,
+      "offset": 10384,
       "length": 40,
       "value": "\"Error al obtener los datos del teclado\""
     },
