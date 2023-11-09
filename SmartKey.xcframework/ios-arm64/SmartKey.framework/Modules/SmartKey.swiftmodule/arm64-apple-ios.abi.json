@@ -8595,28 +8595,28 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 837,
+      "offset": 771,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1141,
+      "offset": 1018,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1465,
+      "offset": 1281,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/OperationViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1776,
+      "offset": 1533,
       "length": 5,
       "value": "false"
     },
@@ -9379,154 +9379,154 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1449,
+      "offset": 1450,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 1650,
+      "offset": 1651,
       "length": 16,
       "value": "\"creditcardcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 2606,
+      "offset": 2607,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2690,
+      "offset": 2691,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2703,
+      "offset": 2704,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3008,
+      "offset": 3009,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 3303,
+      "offset": 3304,
       "length": 29,
       "value": "\"No hay tarjetas disponibles\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3363,
+      "offset": 3364,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3497,
+      "offset": 3499,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3595,
+      "offset": 3597,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4252,
+      "offset": 4254,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 4715,
+      "offset": 4717,
       "length": 6,
       "value": "\"$USD\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 5005,
+      "offset": 5007,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 5193,
+      "offset": 5195,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 5455,
+      "offset": 5457,
       "length": 16,
       "value": "\"CreditCardCell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 5523,
+      "offset": 5525,
       "length": 16,
       "value": "\"creditcardcell\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "StringLiteral",
-      "offset": 6068,
+      "offset": 6070,
       "length": 28,
       "value": "\"Error, intente más tarde.\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6127,
+      "offset": 6129,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6253,
+      "offset": 6256,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6547,
+      "offset": 6550,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6612,
+      "offset": 6615,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6706,
+      "offset": 6709,
       "length": 5,
       "value": "false"
     },
@@ -12158,70 +12158,70 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8641,
+      "offset": 8561,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8739,
+      "offset": 8659,
       "length": 51,
       "value": "\"Error in saving auth success for success bio auth\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9313,
+      "offset": 9233,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9365,
+      "offset": 9285,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9428,
+      "offset": 9348,
       "length": 73,
       "value": "\"El método de autenticación ha sido deshabilitado desde el dispositivo\""
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9555,
+      "offset": 9475,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9889,
+      "offset": 9810,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9922,
+      "offset": 9843,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9981,
+      "offset": 9902,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/SmartKeyViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10407,
+      "offset": 10328,
       "length": 40,
       "value": "\"Error al obtener los datos del teclado\""
     },
