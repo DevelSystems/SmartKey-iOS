@@ -26,11 +26,11 @@
 		</data>
 		<key>ConfirmationCell.nib</key>
 		<data>
-		jx4NkJjG2+pnh1AVVpoUWwwz1QE=
+		YkawkLC0ncbUBg86OgS6se7lxtg=
 		</data>
 		<key>ConfirmationView.nib</key>
 		<data>
-		Nt/Gw0104gB9RE3Ib2MkBL1SmQo=
+		Mvfiqw9g6+PaTHTXmYZ4GU24vS4=
 		</data>
 		<key>ConnectionErrorView.nib</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>MessageUNIView.nib</key>
 		<data>
-		2+OYXRunGERURp/ixXZaBv1ZdTI=
+		B0hC/SprG+ktc5sZLvCnp3IQA0Q=
 		</data>
 		<key>MessageView.nib</key>
 		<data>
-		fhgdEOIzdiF9Nf1Lm7yxkNa2tCU=
+		EUvVVnRw6NIu1oJOqCLTgED0lvc=
 		</data>
 		<key>Modules/SmartKey.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -198,14 +198,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1UQX4Gz7WUxDY2tkqDorDG9+jF3GIQkFpyuTUFMMIqI=
+			hPreoqU1vso/MLnJYxwC/vOSZHZSFAOOVLljpZpkS6c=
 			</data>
 		</dict>
 		<key>ConfirmationView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JVJ2Dw+wxj+YwGK3THluyPlPXln/ZpQTQeBBTSPV4E0=
+			JFvBX7C+4OAzOYOFR6wx57JEBIgsmWCqz2IGPjcQLrU=
 			</data>
 		</dict>
 		<key>ConnectionErrorView.nib</key>
@@ -275,14 +275,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sn1NleFXmlqQFJMmB/XVVtP5MeSpq81Vp+N+Y/7DFvw=
+			KcSmSII2mVMa2EYM11OEK61xMzmnNx+JAHLXsLhhIcQ=
 			</data>
 		</dict>
 		<key>MessageView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xQxVSugHoV5VrFGVD3nQeWjqpOWtJPFIMmqEgUjgCrs=
+			qanUiCnzlHB0B97BICpeRNNRIZJhuBlp4vJmJ2li7OU=
 			</data>
 		</dict>
 		<key>Modules/SmartKey.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
