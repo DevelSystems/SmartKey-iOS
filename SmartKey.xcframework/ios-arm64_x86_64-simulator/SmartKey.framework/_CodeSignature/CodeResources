@@ -14,7 +14,7 @@
 		</data>
 		<key>AmmountView.nib</key>
 		<data>
-		CaGZAPNZpUoqa/LOLgpGugSSrbY=
+		Idb+GHIGYWPPJUDiJSA6Rybeim8=
 		</data>
 		<key>Assets.car</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>ConfirmationView.nib</key>
 		<data>
-		Nt/Gw0104gB9RE3Ib2MkBL1SmQo=
+		NV1UBlInZmjnpTufK2la8UHIt0I=
 		</data>
 		<key>ConnectionErrorView.nib</key>
 		<data>
-		c0bHP0z34UyZnrvPo6F6Cu0DP0o=
+		zN5VCyGS/98M+xlJ8z3mMh34Uu8=
 		</data>
 		<key>CreditCardCell.nib</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>CreditCardView.nib</key>
 		<data>
-		Fgwyk/N1jLcfeAc03XEQuX9OEA0=
+		qF/Kv4DnGSbj7xwxF0jEZvbD+4M=
 		</data>
 		<key>DestinationAccountView.nib</key>
 		<data>
-		fhdBZWOD/2nVrIvwkR+l2nptBmk=
+		FY/co5YlBUlYRktSwyxPTyJN+s0=
 		</data>
 		<key>Headers/SmartKey-Swift.h</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>MessageTCView.nib</key>
 		<data>
-		nGDD5OP0LIshYt1CSK1O/AZi3ZU=
+		2JuoFF/GvCXFUTmilNQQU8gW+98=
 		</data>
 		<key>MessageUNICell.nib</key>
 		<data>
@@ -74,11 +74,11 @@
 		</data>
 		<key>MessageUNIView.nib</key>
 		<data>
-		IN3sGx6W3OTMbRUK5U/a7l2nT9U=
+		Xb0NY7DjwAIBFNoZIh6H6onLLbc=
 		</data>
 		<key>MessageView.nib</key>
 		<data>
-		yqgkBF0fcYcEKPh8gJtqz8y6bVs=
+		0D6Yh9NfQxZByJNXEXEkrNqsYKQ=
 		</data>
 		<key>Modules/SmartKey.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -130,15 +130,15 @@
 		</data>
 		<key>OperationSuccessfulView.nib</key>
 		<data>
-		kDbXDUHhjWejoZuY1OYIrnAeX54=
+		5ptU1o9bN+ZTm/GR/Cm/1/NxPG8=
 		</data>
 		<key>OperationViewController.nib</key>
 		<data>
-		rNFB1lQHjOQOFZbSymMa+gpkO4A=
+		/C0g0fnlq399ZdSrwuBu2v4lDjs=
 		</data>
 		<key>OriginAccountView.nib</key>
 		<data>
-		ArC3ZEisUMoSSEz2zYymG3TcuQw=
+		ctkp7N7H752BSJfryvsHNGqw00Y=
 		</data>
 		<key>PayTypeCell.nib</key>
 		<data>
@@ -146,15 +146,15 @@
 		</data>
 		<key>PayTypeView.nib</key>
 		<data>
-		jBB2KhZu4WiChY2hazUnMNUg4LI=
+		6c08CdJWardIRnQ9ePxQAun6PIo=
 		</data>
 		<key>SelectBankView.nib</key>
 		<data>
-		kMMJ/6KltYrXJN5xx3YG45ROuus=
+		bb1vS4O9NkIzS23XsuT/OEFmPrA=
 		</data>
 		<key>TransferBHView.nib</key>
 		<data>
-		YZtTfM0I8kNRh4PDFpQarI21fvo=
+		vpyAKnjkytX5KvUxTV8vho/kBbY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -177,7 +177,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1jiDAgrHqavR3KeUbcchfyGX/7R5VPUr30KLtfF5m4E=
+			7K8HdOdk8AZd+He5S1dfpLZAHY6Q9JjeEQA8WDjCJrg=
 			</data>
 		</dict>
 		<key>Assets.car</key>
@@ -205,14 +205,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JVJ2Dw+wxj+YwGK3THluyPlPXln/ZpQTQeBBTSPV4E0=
+			TG4Y4vtybbSWnhAhQBNXbjweMC8nzanhvoEc/29F+CE=
 			</data>
 		</dict>
 		<key>ConnectionErrorView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z12qisLt2FSyQZh7F/97yD9zAlysujprQ1mPmyZ//pY=
+			S2FwzfcHQGf2y34WLgtzJgL90r1Gek/LPSSKD60JTSo=
 			</data>
 		</dict>
 		<key>CreditCardCell.nib</key>
@@ -226,14 +226,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oXLVfaDtHG9gMy45SEQhpY7nhXnRu6rt5FUF7iv3TG8=
+			QwoDzFzFsFPdD6r5YboCTNhMSCQMvLi0giEIjCsJHb0=
 			</data>
 		</dict>
 		<key>DestinationAccountView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rNqhF7ae/BR/Dc9AykLcQU65hUrjaP6doCAARqtI4RY=
+			rzxSnXjJvH04/R7hiYCcctIFu3BtYWMZprhGwrzSssk=
 			</data>
 		</dict>
 		<key>Headers/SmartKey-Swift.h</key>
@@ -261,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ONsofpZrPL2PXShEaThzTJEOmRwToLXcj/Zigws0qc=
+			v1f7WiZpIHNkeirZb/ULw0kswD/CQi+aZmQDAtA6Z3s=
 			</data>
 		</dict>
 		<key>MessageUNICell.nib</key>
@@ -275,14 +275,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zGovOcobsfJwvQLPgaqeO9wvIiWyjdxhBBQjhZrghQo=
+			RDugb9JKnsAWMNEh75RuJAb0yNGgm7ahT17Ujs8cWSc=
 			</data>
 		</dict>
 		<key>MessageView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SnbkLGQtubna068asKwkd31VSPtLlWwWd2pzO/OHdXI=
+			qX9tuGPNBIi9xHhZiyaid++DuZTCaIxt1KbqJzcxE3M=
 			</data>
 		</dict>
 		<key>Modules/SmartKey.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -373,21 +373,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MrAxPmgYgu9D5XzIQ/HjFJeAToFz4nWhtydx+mtUZwA=
+			drdKZi5oYAud+xDZHweChFj2o33cIJYufUQ3ekmCktk=
 			</data>
 		</dict>
 		<key>OperationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jt3VzJ8zqYMO7dK1mtRWckcP1BlUCClAXSzIIqx/iyk=
+			N95/UXQzlfLtTjfq8CsWZf8807UdHQpYYY4ovi+Owos=
 			</data>
 		</dict>
 		<key>OriginAccountView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r11298jxKaO7+Y1yMXHVOD/2LkRKXdsVeB7OzJvoefU=
+			L5LWtV7zZgJABrPEvIyp79u4mOPEE/cT8S/GbFlOtAM=
 			</data>
 		</dict>
 		<key>PayTypeCell.nib</key>
@@ -401,21 +401,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cYT8ZR4HTJ4S/+h9Cq45tseuvpOH8ut5zb9b5ixVWG8=
+			NDMW4gHxVDbRFVNVXFUvzeD99FmQsImAzieY1TuZh8U=
 			</data>
 		</dict>
 		<key>SelectBankView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eTznXnlHOaFWElI4ojezflEylncTHexpAYReNpmHoW0=
+			rSBwArxCvKKjv5h2/YvygCTaR3E62oS1Njo5r/FFECU=
 			</data>
 		</dict>
 		<key>TransferBHView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DPP0FT7qyC2dnLX+ayr7K8J8Seq0Y8X+tS3+6JGBQnA=
+			+wNwnoFsEo5u5QjBCT69DLL3XC8sX2wm6VBliDjID0Q=
 			</data>
 		</dict>
 	</dict>
