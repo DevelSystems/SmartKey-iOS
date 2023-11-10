@@ -2174,6 +2174,13 @@
       },
       {
         "kind": "Import",
+        "name": "Messages",
+        "printedName": "Messages",
+        "declKind": "Import",
+        "moduleName": "SmartKey"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -9274,107 +9281,100 @@
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 381,
+      "offset": 408,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 433,
+      "offset": 460,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 477,
+      "offset": 504,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 669,
+      "offset": 696,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 712,
+      "offset": 739,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 748,
+      "offset": 775,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1159,
+      "offset": 1186,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1188,
+      "offset": 1215,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1232,
+      "offset": 1259,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1349,
+      "offset": 1376,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1689,
+      "offset": 1716,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1769,
+      "offset": 1796,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1811,
+      "offset": 1838,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1880,
+      "offset": 1907,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/ConnectionErrorView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1922,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/devops\/xcodeProjects\/SmartKey.iOS.bh\/SmartKeyDS\/Controllers\/CreditCardView.swift",
